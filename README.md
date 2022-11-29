@@ -22,7 +22,7 @@ that wearing masks and sanitization from the market are two
 features that have only one value that is ‘no’ as they don’t
 affect our predictions we can simply just drop those columns
 off our dataset.
-  *<ins> Encoding Categorical Data </ins>: Labeling Coding is
+  * <ins> Encoding Categorical Data </ins>: Labeling Coding is
 a popular form of code flexible code management for
 categories. In this process, each label is given a whole
 number based on alphabetical order. All attributes of our
@@ -34,7 +34,7 @@ label encoding.
   We divided the data into an 80:20 split.We take all the 20 independent
 attributes into x and the dependent column ‘COVID-19’ into
 y as we aim to predict if the patient is COVID positive or not.
-*<ins> Exploratory Data Analysis </ins>:
+* <ins> Exploratory Data Analysis </ins>:
 Exploratory data analysis is used to evaluate various datasets
 with the aim of summarizing them based on their key characteristics. This summary can be visualized using statistical
 graphics and other data visualization techniques.
